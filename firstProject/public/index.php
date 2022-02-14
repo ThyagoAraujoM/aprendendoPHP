@@ -12,8 +12,8 @@
     if(!file_exists(VIEW.$data['view'])){
       throw new Exception("Essa página {$data['view']} não existe");
     }
-    
     extract($data['data']);
+    
     $view = $data['view'];
     
     require VIEW."index.view.php";
