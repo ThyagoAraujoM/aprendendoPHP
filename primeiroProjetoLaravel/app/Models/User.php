@@ -65,4 +65,9 @@ class User extends Authenticatable
         // atrelado a ele.
         return $this->hasMany("App\Models\Event");
     }
+
+    public function eventsAsParticipanti()
+    {
+        return $this->belongsToMany("App\Models\Event");
+    }
 }
