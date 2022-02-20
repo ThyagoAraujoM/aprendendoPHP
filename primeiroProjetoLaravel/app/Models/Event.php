@@ -18,6 +18,8 @@ class Event extends Model
 
     protected $dates = ['date'];
 
+    protected $guarded = [];
+
     public function user()
     {
         // passa falando que pertence a alguém e é para um único usuário
