@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto foi baseado em um curso gratuito no youyube, utilizei ele para aprender o básico de laravel com esse projeto. 
 <br/>
-<a href="https://www.youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG">Vídeo </a>
+<a href="https://www.youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG">Curso</a>
 
 ---
 
